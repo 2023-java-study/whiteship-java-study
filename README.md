@@ -1,11 +1,15 @@
 # 자바를 잘 써봅시다
+## 스터디 소개
+- 우리가 매일 사용하는 자바를 조금 더 제대로 이해하고 사용하기 위한 스터디입니다.
+- 백기선님이 2020년에 유튜브 라이브로 진행하셨던 [자바 스터디의 커리큘럼](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)을 따라서 진행합니다.
+
 ## 스터디 팀원 소개
 | [<img src="https://github.com/Kim-AYoung.png" width="150px">](https://github.com/Kim-AYoung) | [<img src="https://github.com/ssstopeun.png" width="150px">](https://github.com/ssstopeun) | [<img src="https://github.com/gmelon.png" width="150px">](https://github.com/gmelon) |
 | :---: | :---: | :---: |
 | [김아영](https://github.com/Kim-AYoung) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 
 ## 스터디 진행 방식
-- 기본적으로 백기선님이 2020년에 유튜브 라이브로 진행하셨던 [자바 스터디의 커리큘럼](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)을 따라서 진행한다.
+- 백기선님이 2020년에 유튜브 라이브로 진행하셨던 [자바 스터디의 커리큘럼](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)을 따라서 진행한다.
     - 유튜브 멤버십을 가입하면 볼 수 있는 [당시 백기선님의 피드백 영상](https://www.youtube.com/watch?v=T7NyR5UvyYo&list=PLfI752FpVCS96fSsQe2E3HzYTgdmbz6LU&index=2&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)을 참고한다.
     - 당시 실제로 스터디에 참여했던 분들이 [과제로 제출하신 블로그 글들](https://github.com/whiteship/live-study/issues/1)도 참고한다.
 - 스터디 전, 각자 해당 주차의 내용에 대해 공부하고 블로그에 공부한 내용을 포스팅한다.
