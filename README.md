@@ -1,4 +1,4 @@
-# 자바를 잘 써봅시다
+# JAVA를 잡아~!
 ## 스터디 소개
 - 우리가 매일 사용하는 자바를 조금 더 제대로 이해하고 사용하기 위한 스터디입니다.
 - 백기선님이 2020년에 유튜브 라이브로 진행하셨던 [자바 스터디의 커리큘럼](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)을 따라서 진행합니다.
@@ -15,23 +15,42 @@
 - 스터디 전, 각자 해당 주차의 내용에 대해 공부하고 블로그에 공부한 내용을 포스팅한다.
 - 스터디 때는 공부한 내용과 피드백 내용 등을 가지고 공부하면서 발생한 의문점에 대해 토론하고 답을 찾는다.
 
-## Rule
+## Rules
 ### 스터디 전
-1. 먼저, 해당 주차에 해당하는 내용을 각자 공부한 뒤, 블로그에 포스팅하고 `README.md` 에 링크를 적는다.
-2. [깃헙 ISSUE](https://github.com/2023-java-study/whiteship-java-study/issues)에  매주 공부한 내용에 대해 같이 토론하고 싶은 주제를 적어 1-2개 올린다.
-    1. 나머지 팀원들은 **스터디 전에 토론 주제에 대해 확인**하고, 해당 내용에 대해 공부한다.
-3. `1, 2`를 마치고 백기선님 자바 라이브 피드백을 각자 시청한다.
-    1. 이 과정에서 `2-a` 수행에 도움을 받을 수도 있다.
+1. 먼저, 해당 주차에 해당하는 내용을 **각자 공부**한 뒤, **블로그에 포스팅**하고 `README.md` 에 링크를 업데이트한다.
+2. [깃헙 ISSUE](https://github.com/2023-java-study/whiteship-java-study/issues)에  매주 공부한 내용 중 **같이 토론하고 싶은 주제**를 적어 1-2개 올린다.
+    1. 스터디 전에 issue 내용이 해결되면 해결한 내용에 대해 댓글을 작성한다. **(스터디 전엔 issue를 닫지 않는다.)**
+3. 스터디 전에 백기선님 **유튜브의 피드백 영상**을 **각자 시청**해온다.
+    1. 이 과정에서 `2-i` 수행에 도움을 받을 수도 있다.
 
 ### 스터디 중
-1. issue로 적은 토론 주제, 백기선님 라이브 시청 후 발생한 새로운 의문점에 대해 같이 토론하고 답을 찾는다.
+1. issue로 등록된 내용 중 미리 해결된 내용은 작성자가 발표하고, 해결되지 않은 내용은 토론을 통해 해결한다.
+2. 피드백 영상 시청 후 발생한 새로운 의문점에 대해 같이 토론하고 답을 찾는다.
 
 ### 스터디 후
 1. `깃헙 ISSUE`는 **open한 사람이 직접** 해당 내용에 대한 답을 댓글로 작성하고 issue를 닫는다.
-2. 혹시라도 포스팅한 내용 중 틀린 내용이 있었다면 스터디 후, 포스팅을 수정한다.
+2. 혹시라도 포스팅한 내용 중 틀린 내용이 있었다면 스터디 후, **포스팅을 수정**한다.
+
+## 스터디 진도표
+| 스터디 회차 | 학습 주차 | 스터디 (예정) 일자 | 진행 여부 |
+| :---: | :---: | :---: | :---: |
+| 1회차 | [1주차](https://github.com/whiteship/live-study/issues/1), [2주차](https://github.com/whiteship/live-study/issues/2) | 2023.01.10 (화) |  |
+| 2회차 | [3주차](https://github.com/whiteship/live-study/issues/3), [4주차](https://github.com/whiteship/live-study/issues/4) | 2023.01.17 (화) |  |
+| 3회차 | [5주차](https://github.com/whiteship/live-study/issues/5), [6주차](https://github.com/whiteship/live-study/issues/6) | 2023.01.24 (화) |  |
+| 4회차 | [7주차](https://github.com/whiteship/live-study/issues/7), [8주차](https://github.com/whiteship/live-study/issues/8) | 2023.01.31 (화) |  |
+| 5회차 | [9주차](https://github.com/whiteship/live-study/issues/9), [10주차](https://github.com/whiteship/live-study/issues/10) | 2023.02.07 (화) |  |
+| 6회차 | [11주차](https://github.com/whiteship/live-study/issues/11), [12주차](https://github.com/whiteship/live-study/issues/12) | 2023.02.14 (화) |  |
+| 7회차 | [13주차](https://github.com/whiteship/live-study/issues/13), [14주차](https://github.com/whiteship/live-study/issues/14) | 2023.02.21 (화) |  |
+| 8회차 | [15주차](https://github.com/whiteship/live-study/issues/15) | 2023.02.28 (화) |  |
 
 ## 학습 내용 포스팅 링크
-|  | [김아영](https://github.com/Kim-AYoung) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
+| 스터디 회차 | [김아영](https://github.com/Kim-AYoung) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: |
-| 1주차 |  |  |  |
-| 2주차 |  |  |  |
+| 1회차 |  |  |  |
+| 2회차 |  |  |  |
+| 3회차 |  |  |  |
+| 4회차 |  |  |  |
+| 5회차 |  |  |  |
+| 6회차 |  |  |  |
+| 7회차 |  |  |  |
+| 8회차 |  |  |  |
