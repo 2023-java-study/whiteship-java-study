@@ -47,7 +47,7 @@
 ## 학습 내용 포스팅 링크
 | 스터디 회차 | [김아영](https://github.com/Kim-AYoung) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: |
-| 1회차 |  |  | 1주차 : https://velog.io/@gmelon/%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-JVM%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%9E%90%EB%B0%94-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B8%EA%B0%80 |
+| 1회차 |  |  | [1주차 링크](https://velog.io/@gmelon/%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-JVM%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%9E%90%EB%B0%94-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B8%EA%B0%80) [2주차 링크](.)|
 | 2회차 |  |  |  |
 | 3회차 |  |  |  |
 | 4회차 |  |  |  |
