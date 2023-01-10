@@ -35,7 +35,7 @@
 | 스터디 회차 | 학습 주차 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
 | 0회차 | 사전 회의 | 2023.01.03 (화) | ✅ |
-| 1회차 | [1주차](https://github.com/whiteship/live-study/issues/1), [2주차](https://github.com/whiteship/live-study/issues/2) | 2023.01.10 (화) |  |
+| 1회차 | [1주차](https://github.com/whiteship/live-study/issues/1), [2주차](https://github.com/whiteship/live-study/issues/2) | 2023.01.10 (화) | ✅ |
 | 2회차 | [3주차](https://github.com/whiteship/live-study/issues/3), [4주차](https://github.com/whiteship/live-study/issues/4) | 2023.01.17 (화) |  |
 | 3회차 | [5주차](https://github.com/whiteship/live-study/issues/5), [6주차](https://github.com/whiteship/live-study/issues/6) | 2023.01.24 (화) |  |
 | 4회차 | [7주차](https://github.com/whiteship/live-study/issues/7), [8주차](https://github.com/whiteship/live-study/issues/8) | 2023.01.31 (화) |  |
