@@ -49,7 +49,7 @@
 | :---: | :---: | :---: | :---: |
 | 1회차 | [1주차 링크](https://velog.io/@onionlily123/1회차.-JVM은-무엇이며-자바-코드는-어떻게-실행하는-것인가) [2주차 링크](https://velog.io/@onionlily123/2회차.-자바-데이터-타입-변수-그리고-배열) |[1주차 링크](https://velog.io/@ssstopeun/Study-1.-JVM) [2주차 링크](https://velog.io/@ssstopeun/Study-2.-%EC%9E%90%EB%B0%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85-%EB%B3%80%EC%88%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%B0%B0%EC%97%B4)  | [1주차 링크](https://sh-hyun.tistory.com/50) [2주차 링크](https://sh-hyun.tistory.com/60)|
 | 2회차 | [3주차 링크](https://velog.io/@onionlily123/3회차.-연산자) [4주차 링크](https://velog.io/@onionlily123/4회차.-제어문) | [3주차 링크](https://velog.io/@ssstopeun/Study-3.-%EC%97%B0%EC%82%B0%EC%9E%90) [4주차 링크](https://velog.io/@ssstopeun/Study-4.-%EC%A0%9C%EC%96%B4%EB%AC%B8) | [3주차 링크](https://sh-hyun.tistory.com/61) [4주차 링크](https://sh-hyun.tistory.com/62) |
-| 3회차 | [5주차 링크](https://velog.io/@onionlily123/5회차.-클래스) [6주차 링크](https://velog.io/@onionlily123/6회차.-상속) |  | [5주차 링크](https://sh-hyun.tistory.com/64) [6주차 링크](https://sh-hyun.tistory.com/65) |
+| 3회차 | [5주차 링크](https://velog.io/@onionlily123/5회차.-클래스) [6주차 링크](https://velog.io/@onionlily123/6회차.-상속) | [5주차 링크](https://velog.io/@ssstopeun/Study-5.-%ED%81%B4%EB%9E%98%EC%8A%A4) [6주차 링크](https://velog.io/@ssstopeun/6.-%EC%83%81%EC%86%8D) | [5주차 링크](https://sh-hyun.tistory.com/64) [6주차 링크](https://sh-hyun.tistory.com/65) |
 | 4회차 |  |  |  |
 | 5회차 |  |  |  |
 | 6회차 |  |  |  |
