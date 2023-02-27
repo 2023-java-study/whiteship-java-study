@@ -42,7 +42,7 @@
 | 5회차 | [9주차](https://github.com/whiteship/live-study/issues/9), [10주차](https://github.com/whiteship/live-study/issues/10) | 2023.02.08 (수) | ✅ |
 | 6회차 | [11주차](https://github.com/whiteship/live-study/issues/11), [12주차](https://github.com/whiteship/live-study/issues/12) | 2023.02.13 (월) | ✅ |
 | 7회차 | [13주차](https://github.com/whiteship/live-study/issues/13), [14주차](https://github.com/whiteship/live-study/issues/14) | 2023.02.20 (월) | ✅ |
-| 8회차 | [15주차](https://github.com/whiteship/live-study/issues/15) | 2023.02.27 (월) |  |
+| 8회차 | [15주차](https://github.com/whiteship/live-study/issues/15) | 2023.02.27 (월) | ✅ |
 
 ## 학습 내용 포스팅 링크
 | 스터디 회차 | [김아영](https://github.com/Kim-AYoung) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
